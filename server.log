@@ -1,191 +1,192 @@
-2024-12-03 12:10:51,013 - INFO - Server started on 0.0.0.0:8089
-2024-12-03 12:11:05,655 - INFO - Player (1) has connected from ('127.0.0.1', 61499)
-2024-12-03 12:11:20,793 - INFO - Player (2) has connected from ('127.0.0.1', 61515)
-2024-12-03 12:12:44,859 - INFO - Message from Player (2): freely
-2024-12-03 12:13:05,355 - ERROR - Error handling Player (1): [WinError 10054] An existing connection was forcibly closed by the remote host
-2024-12-03 12:13:07,351 - ERROR - Error handling Player (2): [WinError 10054] An existing connection was forcibly closed by the remote host
-2024-12-03 12:13:16,756 - INFO - Server started on 0.0.0.0:8089
-2024-12-03 12:13:20,163 - INFO - Player (1) has connected from ('127.0.0.1', 61579)
-2024-12-03 12:13:24,583 - INFO - Player (2) has connected from ('127.0.0.1', 61589)
-2024-12-03 12:14:58,674 - ERROR - Error handling Player (1): [WinError 10054] An existing connection was forcibly closed by the remote host
-2024-12-03 22:22:30,132 - INFO - Server started on 0.0.0.0:8089
-2024-12-03 22:22:41,006 - INFO - Player (1) has connected from ('127.0.0.1', 49564)
-2024-12-03 22:22:51,666 - INFO - Player (2) has connected from ('127.0.0.1', 49581)
-2024-12-05 19:17:23,211 - INFO - Server started on 0.0.0.0:8089
-2024-12-05 19:17:33,759 - INFO - Player (1) has connected from ('127.0.0.1', 50864)
-2024-12-05 19:17:42,675 - INFO - Player (2) has connected from ('127.0.0.1', 50876)
-2024-12-10 15:11:20,585 - INFO - Server started on 0.0.0.0:8089
-2024-12-10 15:11:38,648 - INFO - Player (1) has connected from ('127.0.0.1', 55265)
-2024-12-10 15:11:54,042 - INFO - Server started on 0.0.0.0:8089
-2024-12-10 19:44:57,194 - INFO - Server started on 0.0.0.0:8089
-2024-12-10 19:45:08,941 - INFO - Player (1) has connected from ('127.0.0.1', 60555)
-2024-12-10 19:45:17,866 - INFO - Player (2) has connected from ('127.0.0.1', 60574)
-2024-12-10 19:46:07,255 - ERROR - Error handling Player (1): [WinError 10054] An existing connection was forcibly closed by the remote host
-2024-12-10 19:46:09,236 - ERROR - Error handling Player (2): [WinError 10054] An existing connection was forcibly closed by the remote host
-2024-12-11 00:14:31,979 - INFO - Server started on 0.0.0.0:8089
-2024-12-11 00:14:51,615 - ERROR - Error handling Player (3): [WinError 10054] An existing connection was forcibly closed by the remote host
-2024-12-11 00:15:00,765 - INFO - Server started on 0.0.0.0:8089
-2024-12-11 00:16:01,162 - INFO - Server started on 0.0.0.0:8089
-2024-12-11 00:17:09,287 - INFO - Server started on 0.0.0.0:8089
-2024-12-11 00:17:48,794 - INFO - Server started on 0.0.0.0:8089
-2024-12-11 00:19:56,305 - INFO - Server started on 0.0.0.0:8089
-2024-12-11 00:20:03,045 - INFO - Player (1) has connected from ('127.0.0.1', 51619)
-2024-12-11 00:20:14,563 - INFO - Player (2) has connected from ('127.0.0.1', 51633)
-2024-12-11 00:20:22,604 - ERROR - Error handling Player (1): [WinError 10054] An existing connection was forcibly closed by the remote host
-2024-12-11 00:20:54,112 - INFO - Server started on 0.0.0.0:8089
-2024-12-11 00:20:58,276 - INFO - Player (1) has connected from ('127.0.0.1', 51665)
-2024-12-11 00:21:03,629 - INFO - Player (2) has connected from ('127.0.0.1', 51676)
-2024-12-11 00:21:06,956 - ERROR - Error handling Player (1): [WinError 10054] An existing connection was forcibly closed by the remote host
-2024-12-11 00:21:15,203 - ERROR - Error handling Player (2): [WinError 10054] An existing connection was forcibly closed by the remote host
-2024-12-11 00:22:21,114 - ERROR - Error handling Player (3): [WinError 10054] An existing connection was forcibly closed by the remote host
-2024-12-11 00:22:25,445 - INFO - Server started on 0.0.0.0:8089
-2024-12-11 00:22:28,702 - INFO - Player (1) has connected from ('127.0.0.1', 51731)
-2024-12-11 00:22:32,345 - INFO - Player (2) has connected from ('127.0.0.1', 51741)
-2024-12-11 00:22:34,583 - ERROR - Error handling Player (1): [WinError 10054] An existing connection was forcibly closed by the remote host
-2024-12-11 00:24:53,291 - INFO - Server started on 0.0.0.0:8089
-2024-12-11 00:24:56,803 - INFO - Player (1) has connected from ('127.0.0.1', 51792)
-2024-12-11 00:24:58,373 - INFO - Player (2) has connected from ('127.0.0.1', 51802)
-2024-12-11 00:25:02,404 - ERROR - Error handling Player (1): [WinError 10054] An existing connection was forcibly closed by the remote host
-2024-12-11 00:25:09,811 - INFO - Message from Player (2): ju
-2024-12-11 00:25:18,397 - ERROR - Error handling Player (2): [WinError 10054] An existing connection was forcibly closed by the remote host
-2024-12-13 18:29:33,706 - INFO - Server started on 0.0.0.0:8089
-2024-12-13 21:09:19,798 - INFO - Server started on 0.0.0.0:8089
-2024-12-13 21:09:25,992 - INFO - Player (1) has connected from ('127.0.0.1', 61726)
-2024-12-13 21:09:34,835 - INFO - Player (2) has connected from ('127.0.0.1', 61748)
-2024-12-13 21:09:42,500 - ERROR - Error handling Player (1): [WinError 10054] An existing connection was forcibly closed by the remote host
-2024-12-13 21:13:15,298 - INFO - Server started on 0.0.0.0:8089
-2024-12-13 21:13:19,285 - INFO - Player (1) has connected from ('127.0.0.1', 61858)
-2024-12-13 21:13:23,326 - INFO - Player (2) has connected from ('127.0.0.1', 61869)
-2024-12-13 21:13:26,933 - ERROR - Error handling Player (1): [WinError 10054] An existing connection was forcibly closed by the remote host
-2024-12-13 21:13:26,934 - ERROR - Error handling Player (2): [WinError 10053] An established connection was aborted by the software in your host machine
-2024-12-13 21:13:56,877 - ERROR - Error handling Player (3): [WinError 10054] An existing connection was forcibly closed by the remote host
-2024-12-13 21:14:06,007 - INFO - Server started on 0.0.0.0:8089
-2024-12-13 21:14:08,923 - INFO - Player (1) has connected from ('127.0.0.1', 61922)
-2024-12-13 21:14:10,349 - INFO - Player (2) has connected from ('127.0.0.1', 61931)
-2024-12-13 21:14:22,069 - ERROR - Error handling Player (1): [WinError 10053] An established connection was aborted by the software in your host machine
-2024-12-13 21:14:40,904 - ERROR - Error handling Player (3): [WinError 10054] An existing connection was forcibly closed by the remote host
-2024-12-13 21:14:57,518 - INFO - Server started on 0.0.0.0:8089
-2024-12-13 21:14:58,812 - INFO - Player (1) has connected from ('127.0.0.1', 62000)
-2024-12-13 21:14:59,784 - INFO - Player (2) has connected from ('127.0.0.1', 62010)
-2024-12-13 21:15:03,483 - ERROR - Error handling Player (2): [WinError 10054] An existing connection was forcibly closed by the remote host
-2024-12-13 21:15:03,484 - ERROR - Error handling Player (1): [WinError 10053] An established connection was aborted by the software in your host machine
-2024-12-13 21:15:32,694 - INFO - Server started on 0.0.0.0:8089
-2024-12-13 21:15:33,925 - INFO - Player (1) has connected from ('127.0.0.1', 62055)
-2024-12-13 21:15:34,771 - INFO - Player (2) has connected from ('127.0.0.1', 62059)
-2024-12-13 21:15:37,823 - ERROR - Error handling Player (2): [WinError 10054] An existing connection was forcibly closed by the remote host
-2024-12-13 21:15:37,824 - ERROR - Error handling Player (1): [WinError 10053] An established connection was aborted by the software in your host machine
-2024-12-13 21:16:01,176 - ERROR - Error handling Player (3): [WinError 10054] An existing connection was forcibly closed by the remote host
-2024-12-13 21:16:05,255 - INFO - Server started on 0.0.0.0:8089
-2024-12-13 21:16:06,644 - INFO - Player (1) has connected from ('127.0.0.1', 62111)
-2024-12-13 21:16:18,311 - INFO - Player (2) has connected from ('127.0.0.1', 62125)
-2024-12-13 21:16:28,059 - ERROR - Error handling Player (2): [WinError 10054] An existing connection was forcibly closed by the remote host
-2024-12-13 21:16:50,904 - ERROR - Error handling Player (1): [WinError 10053] An established connection was aborted by the software in your host machine
-2024-12-13 21:17:18,831 - INFO - Server started on 0.0.0.0:8089
-2024-12-13 21:17:19,730 - INFO - Player (1) has connected from ('127.0.0.1', 62170)
-2024-12-13 21:17:20,792 - INFO - Player (2) has connected from ('127.0.0.1', 62184)
-2024-12-13 21:17:36,867 - INFO - Message from Player (2): f
-2024-12-13 21:17:36,868 - ERROR - Error broadcasting to Player (1): [WinError 10054] An existing connection was forcibly closed by the remote host
-2024-12-13 21:17:36,883 - ERROR - Error handling Player (1): [WinError 10054] An existing connection was forcibly closed by the remote host
-2024-12-13 21:18:11,713 - INFO - Server started on 0.0.0.0:8089
-2024-12-13 21:18:12,923 - INFO - Player (1) has connected from ('127.0.0.1', 62253)
-2024-12-13 21:18:14,141 - INFO - Player (2) has connected from ('127.0.0.1', 62266)
-2024-12-13 21:18:20,190 - ERROR - Error handling Player (1): [WinError 10054] An existing connection was forcibly closed by the remote host
-2024-12-13 21:21:01,434 - INFO - Server started on 0.0.0.0:8089
-2024-12-13 21:21:04,366 - INFO - Player (1) has connected from ('127.0.0.1', 62342)
-2024-12-13 21:21:07,308 - INFO - Player (2) has connected from ('127.0.0.1', 62353)
-2024-12-13 21:21:08,137 - ERROR - Error handling Player (1): [WinError 10054] An existing connection was forcibly closed by the remote host
-2024-12-13 21:21:08,137 - ERROR - Error handling Player (2): [WinError 10053] An established connection was aborted by the software in your host machine
-2024-12-13 21:21:49,976 - INFO - Server started on 0.0.0.0:8089
-2024-12-13 21:21:51,349 - INFO - Player (1) has connected from ('127.0.0.1', 62385)
-2024-12-13 21:21:52,534 - INFO - Player (2) has connected from ('127.0.0.1', 62395)
-2024-12-13 21:21:55,851 - ERROR - Error handling Player (2): [WinError 10054] An existing connection was forcibly closed by the remote host
-2024-12-13 21:21:55,851 - ERROR - Error handling Player (1): [WinError 10053] An established connection was aborted by the software in your host machine
-2024-12-13 21:22:15,189 - INFO - Server started on 0.0.0.0:8089
-2024-12-13 21:22:16,753 - INFO - Player (1) has connected from ('127.0.0.1', 62430)
-2024-12-13 21:22:17,910 - INFO - Player (2) has connected from ('127.0.0.1', 62440)
-2024-12-13 21:22:20,268 - ERROR - Error handling Player (1): [WinError 10054] An existing connection was forcibly closed by the remote host
-2024-12-13 21:22:20,268 - ERROR - Error handling Player (2): [WinError 10053] An established connection was aborted by the software in your host machine
-2024-12-13 21:28:48,611 - INFO - Server started on 0.0.0.0:8089
-2024-12-13 21:28:52,461 - INFO - Player (1) has connected from ('127.0.0.1', 62629)
-2024-12-13 21:28:53,420 - INFO - Player (2) has connected from ('127.0.0.1', 62635)
-2024-12-13 21:28:59,428 - ERROR - Error handling Player (1): [WinError 10054] An existing connection was forcibly closed by the remote host
-2024-12-13 21:29:03,507 - INFO - Message from Player (2): s
-2024-12-13 21:29:38,575 - INFO - Server started on 0.0.0.0:8089
-2024-12-13 21:29:39,450 - INFO - Player (1) has connected from ('127.0.0.1', 62695)
-2024-12-13 21:29:40,355 - INFO - Player (2) has connected from ('127.0.0.1', 62705)
-2024-12-13 21:29:42,344 - ERROR - Error handling Player (1): [WinError 10054] An existing connection was forcibly closed by the remote host
-2024-12-13 21:30:10,436 - INFO - Server started on 0.0.0.0:8089
-2024-12-13 21:30:11,283 - INFO - Player (1) has connected from ('127.0.0.1', 62762)
-2024-12-13 21:30:12,714 - INFO - Player (2) has connected from ('127.0.0.1', 62775)
-2024-12-13 21:30:18,684 - ERROR - Error handling Player (2): [WinError 10054] An existing connection was forcibly closed by the remote host
-2024-12-13 21:31:49,379 - ERROR - Error handling Player (1): [WinError 10054] An existing connection was forcibly closed by the remote host
-2024-12-13 21:32:06,883 - INFO - Server started on 0.0.0.0:8089
-2024-12-13 21:32:14,625 - INFO - Player (1) has connected from ('127.0.0.1', 62832)
-2024-12-13 21:32:15,630 - INFO - Player (2) has connected from ('127.0.0.1', 62841)
-2024-12-13 21:32:23,845 - ERROR - Error handling Player (1): [WinError 10054] An existing connection was forcibly closed by the remote host
-2024-12-13 21:32:23,846 - ERROR - Error handling Player (2): [WinError 10053] An established connection was aborted by the software in your host machine
-2024-12-13 21:33:07,555 - INFO - Server started on 0.0.0.0:8089
-2024-12-13 21:33:27,364 - INFO - Server started on 0.0.0.0:8089
-2024-12-13 21:33:30,095 - INFO - Player (1) has connected from ('127.0.0.1', 62939)
-2024-12-13 21:33:31,505 - INFO - Player (2) has connected from ('127.0.0.1', 62948)
-2024-12-13 21:33:47,343 - ERROR - Error handling Player (1): [WinError 10054] An existing connection was forcibly closed by the remote host
-2024-12-13 21:34:37,756 - ERROR - Error handling Player (2): [WinError 10053] An established connection was aborted by the software in your host machine
-2024-12-13 21:34:43,854 - ERROR - Error broadcasting to Player (1): [WinError 10038] An operation was attempted on something that is not a socket
-2024-12-13 21:36:12,049 - INFO - Server started on 0.0.0.0:8089
-2024-12-13 21:36:14,269 - INFO - Player (1) has connected from ('127.0.0.1', 63046)
-2024-12-13 21:36:15,326 - INFO - Player (2) has connected from ('127.0.0.1', 63055)
-2024-12-13 21:36:41,570 - INFO - Message from Player (2): f
-2024-12-13 21:36:41,571 - ERROR - Error broadcasting to Player (1): [WinError 10054] An existing connection was forcibly closed by the remote host
-2024-12-13 21:36:41,724 - ERROR - Error handling Player (1): [WinError 10054] An existing connection was forcibly closed by the remote host
-2024-12-13 21:36:47,875 - ERROR - Error handling Player (2): [WinError 10054] An existing connection was forcibly closed by the remote host
-2024-12-13 21:36:52,331 - ERROR - Error handling Player (3): [WinError 10054] An existing connection was forcibly closed by the remote host
-2024-12-13 21:36:58,938 - INFO - Server started on 0.0.0.0:8089
-2024-12-13 21:37:05,499 - INFO - Server started on 0.0.0.0:8089
-2024-12-13 21:37:09,467 - INFO - Player (1) has connected from ('127.0.0.1', 63104)
-2024-12-13 21:37:10,459 - INFO - Player (2) has connected from ('127.0.0.1', 63113)
-2024-12-13 21:37:14,070 - ERROR - Error handling Player (2): [WinError 10054] An existing connection was forcibly closed by the remote host
-2024-12-13 21:37:14,071 - ERROR - Error handling Player (1): [WinError 10053] An established connection was aborted by the software in your host machine
-2024-12-13 21:38:03,649 - INFO - Server started on 0.0.0.0:8089
-2024-12-13 21:38:12,101 - ERROR - Error handling Player (3): [WinError 10054] An existing connection was forcibly closed by the remote host
-2024-12-13 21:38:27,949 - INFO - Server started on 0.0.0.0:8089
-2024-12-13 21:40:09,399 - INFO - Server started on 0.0.0.0:8089
-2024-12-13 21:43:17,081 - INFO - Server started on 0.0.0.0:8089
-2024-12-13 21:43:31,264 - INFO - Player (1) has connected from ('127.0.0.1', 63559)
-2024-12-13 21:43:45,736 - INFO - Player (2) has connected from ('127.0.0.1', 63577)
-2024-12-13 21:43:51,432 - ERROR - Error handling Player (1): [WinError 10053] An established connection was aborted by the software in your host machine
-2024-12-13 21:44:29,117 - INFO - Server started on 0.0.0.0:8089
-2024-12-13 21:44:30,272 - INFO - Player (1) has connected from ('127.0.0.1', 63617)
-2024-12-13 21:44:32,058 - INFO - Player (2) has connected from ('127.0.0.1', 63627)
-2024-12-13 21:44:34,043 - ERROR - Error handling Player (1): [WinError 10054] An existing connection was forcibly closed by the remote host
-2024-12-13 21:44:34,044 - ERROR - Error handling Player (2): [WinError 10053] An established connection was aborted by the software in your host machine
-2024-12-13 21:45:33,959 - INFO - Server started on 0.0.0.0:8089
-2024-12-13 21:45:35,567 - INFO - Player (1) has connected from ('127.0.0.1', 63663)
-2024-12-13 21:45:37,303 - INFO - Player (2) has connected from ('127.0.0.1', 63673)
-2024-12-13 21:45:44,039 - ERROR - Error handling Player (2): [WinError 10054] An existing connection was forcibly closed by the remote host
-2024-12-13 21:45:44,039 - ERROR - Error handling Player (1): [WinError 10053] An established connection was aborted by the software in your host machine
-2024-12-17 07:36:26,107 - INFO - Server started on 0.0.0.0:8089
-2024-12-17 07:36:40,301 - INFO - Player (1) has connected from ('127.0.0.1', 59712)
-2024-12-17 07:36:47,027 - INFO - Player (2) has connected from ('127.0.0.1', 59719)
-2024-12-17 07:36:54,324 - ERROR - Error handling Player (2): [WinError 10054] An existing connection was forcibly closed by the remote host
-2024-12-17 07:36:54,325 - ERROR - Error handling Player (1): [WinError 10053] An established connection was aborted by the software in your host machine
-2024-12-17 07:37:29,594 - ERROR - Error handling Player (3): [WinError 10054] An existing connection was forcibly closed by the remote host
-2024-12-17 07:37:41,962 - INFO - Server started on 0.0.0.0:8089
-2024-12-17 07:37:42,721 - INFO - Player (1) has connected from ('127.0.0.1', 59751)
-2024-12-17 07:37:44,628 - INFO - Player (2) has connected from ('127.0.0.1', 59757)
-2024-12-17 07:37:54,111 - ERROR - Error handling Player (1): [WinError 10054] An existing connection was forcibly closed by the remote host
-2024-12-17 07:37:54,114 - ERROR - Error handling Player (2): [WinError 10053] An established connection was aborted by the software in your host machine
-2024-12-17 07:38:18,034 - ERROR - Error handling Player (3): [WinError 10054] An existing connection was forcibly closed by the remote host
-2024-12-17 07:41:38,973 - INFO - Server started on 0.0.0.0:8089
-2024-12-17 07:41:45,536 - INFO - Player (1) has connected from ('127.0.0.1', 59780)
-2024-12-17 07:41:47,113 - INFO - Player (2) has connected from ('127.0.0.1', 59786)
-2024-12-17 07:42:30,424 - ERROR - Error handling Player (1): [WinError 10054] An existing connection was forcibly closed by the remote host
-2024-12-17 07:42:30,424 - ERROR - Error handling Player (2): [WinError 10053] An established connection was aborted by the software in your host machine
-2024-12-17 07:42:39,960 - ERROR - Error handling Player (3): [WinError 10054] An existing connection was forcibly closed by the remote host
-2024-12-17 07:45:23,938 - INFO - Server started on 0.0.0.0:8089
-2024-12-17 07:45:27,690 - INFO - Player (1) has connected from ('127.0.0.1', 59817)
-2024-12-17 07:45:28,808 - INFO - Player (2) has connected from ('127.0.0.1', 59820)
-2024-12-17 07:45:32,177 - ERROR - Error handling Player (1): [WinError 10054] An existing connection was forcibly closed by the remote host
-2024-12-17 07:45:32,180 - ERROR - Error handling Player (2): [WinError 10053] An established connection was aborted by the software in your host machine
-2024-12-17 07:45:59,669 - ERROR - Error handling Player (3): [WinError 10054] An existing connection was forcibly closed by the remote host
-2024-12-17 07:53:23,306 - INFO - Server started on 0.0.0.0:8089
-2024-12-17 07:56:13,178 - INFO - Server started on 0.0.0.0:8089
+# This file is authentic logs of when the challenge took place
+<REDACTED time of file xxxx-xx-xx xx:xx:xx, xxx> - INFO - Server started on 0.0.0.0:8089
+<REDACTED time of file xxxx-xx-xx xx:xx:xx, xxx> - INFO - Player (1) has connected from ('127.0.0.1', 61499)
+<REDACTED time of file xxxx-xx-xx xx:xx:xx, xxx> - INFO - Player (2) has connected from ('127.0.0.1', 61515)
+<REDACTED time of file xxxx-xx-xx xx:xx:xx, xxx> - INFO - Message from Player (2): freely
+<REDACTED time of file xxxx-xx-xx xx:xx:xx, xxx> - ERROR - Error handling Player (1): [WinError 10054] An existing connection was forcibly closed by the remote host
+<REDACTED time of file xxxx-xx-xx xx:xx:xx, xxx> - ERROR - Error handling Player (2): [WinError 10054] An existing connection was forcibly closed by the remote host
+<REDACTED time of file xxxx-xx-xx xx:xx:xx, xxx> - INFO - Server started on 0.0.0.0:8089
+<REDACTED time of file xxxx-xx-xx xx:xx:xx, xxx> - INFO - Player (1) has connected from ('127.0.0.1', 61579)
+<REDACTED time of file xxxx-xx-xx xx:xx:xx, xxx> - INFO - Player (2) has connected from ('127.0.0.1', 61589)
+<REDACTED time of file xxxx-xx-xx xx:xx:xx, xxx> - ERROR - Error handling Player (1): [WinError 10054] An existing connection was forcibly closed by the remote host
+<REDACTED time of file xxxx-xx-xx xx:xx:xx, xxx> - INFO - Server started on 0.0.0.0:8089
+<REDACTED time of file xxxx-xx-xx xx:xx:xx, xxx> - INFO - Player (1) has connected from ('127.0.0.1', 49564)
+<REDACTED time of file xxxx-xx-xx xx:xx:xx, xxx> - INFO - Player (2) has connected from ('127.0.0.1', 49581)
+<REDACTED time of file xxxx-xx-xx xx:xx:xx, xxx> - INFO - Server started on 0.0.0.0:8089
+<REDACTED time of file xxxx-xx-xx xx:xx:xx, xxx> - INFO - Player (1) has connected from ('127.0.0.1', 50864)
+<REDACTED time of file xxxx-xx-xx xx:xx:xx, xxx> - INFO - Player (2) has connected from ('127.0.0.1', 50876)
+<REDACTED time of file xxxx-xx-xx xx:xx:xx, xxx> - INFO - Server started on 0.0.0.0:8089
+<REDACTED time of file xxxx-xx-xx xx:xx:xx, xxx> - INFO - Player (1) has connected from ('127.0.0.1', 55265)
+<REDACTED time of file xxxx-xx-xx xx:xx:xx, xxx> - INFO - Server started on 0.0.0.0:8089
+<REDACTED time of file xxxx-xx-xx xx:xx:xx, xxx> - INFO - Server started on 0.0.0.0:8089
+<REDACTED time of file xxxx-xx-xx xx:xx:xx, xxx> - INFO - Player (1) has connected from ('127.0.0.1', 60555)
+<REDACTED time of file xxxx-xx-xx xx:xx:xx, xxx> - INFO - Player (2) has connected from ('127.0.0.1', 60574)
+<REDACTED time of file xxxx-xx-xx xx:xx:xx, xxx> - ERROR - Error handling Player (1): [WinError 10054] An existing connection was forcibly closed by the remote host
+<REDACTED time of file xxxx-xx-xx xx:xx:xx, xxx> - ERROR - Error handling Player (2): [WinError 10054] An existing connection was forcibly closed by the remote host
+<REDACTED time of file xxxx-xx-xx xx:xx:xx, xxx> - INFO - Server started on 0.0.0.0:8089
+<REDACTED time of file xxxx-xx-xx xx:xx:xx, xxx> - ERROR - Error handling Player (3): [WinError 10054] An existing connection was forcibly closed by the remote host
+<REDACTED time of file xxxx-xx-xx xx:xx:xx, xxx> - INFO - Server started on 0.0.0.0:8089
+<REDACTED time of file xxxx-xx-xx xx:xx:xx, xxx> - INFO - Server started on 0.0.0.0:8089
+<REDACTED time of file xxxx-xx-xx xx:xx:xx, xxx> - INFO - Server started on 0.0.0.0:8089
+<REDACTED time of file xxxx-xx-xx xx:xx:xx, xxx> - INFO - Server started on 0.0.0.0:8089
+<REDACTED time of file xxxx-xx-xx xx:xx:xx, xxx> - INFO - Server started on 0.0.0.0:8089
+<REDACTED time of file xxxx-xx-xx xx:xx:xx, xxx> - INFO - Player (1) has connected from ('127.0.0.1', 51619)
+<REDACTED time of file xxxx-xx-xx xx:xx:xx, xxx> - INFO - Player (2) has connected from ('127.0.0.1', 51633)
+<REDACTED time of file xxxx-xx-xx xx:xx:xx, xxx> - ERROR - Error handling Player (1): [WinError 10054] An existing connection was forcibly closed by the remote host
+<REDACTED time of file xxxx-xx-xx xx:xx:xx, xxx> - INFO - Server started on 0.0.0.0:8089
+<REDACTED time of file xxxx-xx-xx xx:xx:xx, xxx> - INFO - Player (1) has connected from ('127.0.0.1', 51665)
+<REDACTED time of file xxxx-xx-xx xx:xx:xx, xxx> - INFO - Player (2) has connected from ('127.0.0.1', 51676)
+<REDACTED time of file xxxx-xx-xx xx:xx:xx, xxx> - ERROR - Error handling Player (1): [WinError 10054] An existing connection was forcibly closed by the remote host
+<REDACTED time of file xxxx-xx-xx xx:xx:xx, xxx> - ERROR - Error handling Player (2): [WinError 10054] An existing connection was forcibly closed by the remote host
+<REDACTED time of file xxxx-xx-xx xx:xx:xx, xxx> - ERROR - Error handling Player (3): [WinError 10054] An existing connection was forcibly closed by the remote host
+<REDACTED time of file xxxx-xx-xx xx:xx:xx, xxx> - INFO - Server started on 0.0.0.0:8089
+<REDACTED time of file xxxx-xx-xx xx:xx:xx, xxx> - INFO - Player (1) has connected from ('127.0.0.1', 51731)
+<REDACTED time of file xxxx-xx-xx xx:xx:xx, xxx> - INFO - Player (2) has connected from ('127.0.0.1', 51741)
+<REDACTED time of file xxxx-xx-xx xx:xx:xx, xxx> - ERROR - Error handling Player (1): [WinError 10054] An existing connection was forcibly closed by the remote host
+<REDACTED time of file xxxx-xx-xx xx:xx:xx, xxx> - INFO - Server started on 0.0.0.0:8089
+<REDACTED time of file xxxx-xx-xx xx:xx:xx, xxx> - INFO - Player (1) has connected from ('127.0.0.1', 51792)
+<REDACTED time of file xxxx-xx-xx xx:xx:xx, xxx> - INFO - Player (2) has connected from ('127.0.0.1', 51802)
+<REDACTED time of file xxxx-xx-xx xx:xx:xx, xxx> - ERROR - Error handling Player (1): [WinError 10054] An existing connection was forcibly closed by the remote host
+<REDACTED time of file xxxx-xx-xx xx:xx:xx, xxx> - INFO - Message from Player (2): ju
+<REDACTED time of file xxxx-xx-xx xx:xx:xx, xxx> - ERROR - Error handling Player (2): [WinError 10054] An existing connection was forcibly closed by the remote host
+<REDACTED time of file xxxx-xx-xx xx:xx:xx, xxx> - INFO - Server started on 0.0.0.0:8089
+<REDACTED time of file xxxx-xx-xx xx:xx:xx, xxx> - INFO - Server started on 0.0.0.0:8089
+<REDACTED time of file xxxx-xx-xx xx:xx:xx, xxx> - INFO - Player (1) has connected from ('127.0.0.1', 61726)
+<REDACTED time of file xxxx-xx-xx xx:xx:xx, xxx> - INFO - Player (2) has connected from ('127.0.0.1', 61748)
+<REDACTED time of file xxxx-xx-xx xx:xx:xx, xxx> - ERROR - Error handling Player (1): [WinError 10054] An existing connection was forcibly closed by the remote host
+<REDACTED time of file xxxx-xx-xx xx:xx:xx, xxx> - INFO - Server started on 0.0.0.0:8089
+<REDACTED time of file xxxx-xx-xx xx:xx:xx, xxx> - INFO - Player (1) has connected from ('127.0.0.1', 61858)
+<REDACTED time of file xxxx-xx-xx xx:xx:xx, xxx> - INFO - Player (2) has connected from ('127.0.0.1', 61869)
+<REDACTED time of file xxxx-xx-xx xx:xx:xx, xxx> - ERROR - Error handling Player (1): [WinError 10054] An existing connection was forcibly closed by the remote host
+<REDACTED time of file xxxx-xx-xx xx:xx:xx, xxx> - ERROR - Error handling Player (2): [WinError 10053] An established connection was aborted by the software in your host machine
+<REDACTED time of file xxxx-xx-xx xx:xx:xx, xxx> - ERROR - Error handling Player (3): [WinError 10054] An existing connection was forcibly closed by the remote host
+<REDACTED time of file xxxx-xx-xx xx:xx:xx, xxx> - INFO - Server started on 0.0.0.0:8089
+<REDACTED time of file xxxx-xx-xx xx:xx:xx, xxx> - INFO - Player (1) has connected from ('127.0.0.1', 61922)
+<REDACTED time of file xxxx-xx-xx xx:xx:xx, xxx> - INFO - Player (2) has connected from ('127.0.0.1', 61931)
+<REDACTED time of file xxxx-xx-xx xx:xx:xx, xxx> - ERROR - Error handling Player (1): [WinError 10053] An established connection was aborted by the software in your host machine
+<REDACTED time of file xxxx-xx-xx xx:xx:xx, xxx> - ERROR - Error handling Player (3): [WinError 10054] An existing connection was forcibly closed by the remote host
+<REDACTED time of file xxxx-xx-xx xx:xx:xx, xxx> - INFO - Server started on 0.0.0.0:8089
+<REDACTED time of file xxxx-xx-xx xx:xx:xx, xxx> - INFO - Player (1) has connected from ('127.0.0.1', 62000)
+<REDACTED time of file xxxx-xx-xx xx:xx:xx, xxx> - INFO - Player (2) has connected from ('127.0.0.1', 62010)
+<REDACTED time of file xxxx-xx-xx xx:xx:xx, xxx> - ERROR - Error handling Player (2): [WinError 10054] An existing connection was forcibly closed by the remote host
+<REDACTED time of file xxxx-xx-xx xx:xx:xx, xxx> - ERROR - Error handling Player (1): [WinError 10053] An established connection was aborted by the software in your host machine
+<REDACTED time of file xxxx-xx-xx xx:xx:xx, xxx> - INFO - Server started on 0.0.0.0:8089
+<REDACTED time of file xxxx-xx-xx xx:xx:xx, xxx> - INFO - Player (1) has connected from ('127.0.0.1', 62055)
+<REDACTED time of file xxxx-xx-xx xx:xx:xx, xxx> - INFO - Player (2) has connected from ('127.0.0.1', 62059)
+<REDACTED time of file xxxx-xx-xx xx:xx:xx, xxx> - ERROR - Error handling Player (2): [WinError 10054] An existing connection was forcibly closed by the remote host
+<REDACTED time of file xxxx-xx-xx xx:xx:xx, xxx> - ERROR - Error handling Player (1): [WinError 10053] An established connection was aborted by the software in your host machine
+<REDACTED time of file xxxx-xx-xx xx:xx:xx, xxx> - ERROR - Error handling Player (3): [WinError 10054] An existing connection was forcibly closed by the remote host
+<REDACTED time of file xxxx-xx-xx xx:xx:xx, xxx> - INFO - Server started on 0.0.0.0:8089
+<REDACTED time of file xxxx-xx-xx xx:xx:xx, xxx> - INFO - Player (1) has connected from ('127.0.0.1', 62111)
+<REDACTED time of file xxxx-xx-xx xx:xx:xx, xxx> - INFO - Player (2) has connected from ('127.0.0.1', 62125)
+<REDACTED time of file xxxx-xx-xx xx:xx:xx, xxx> - ERROR - Error handling Player (2): [WinError 10054] An existing connection was forcibly closed by the remote host
+<REDACTED time of file xxxx-xx-xx xx:xx:xx, xxx> - ERROR - Error handling Player (1): [WinError 10053] An established connection was aborted by the software in your host machine
+<REDACTED time of file xxxx-xx-xx xx:xx:xx, xxx> - INFO - Server started on 0.0.0.0:8089
+<REDACTED time of file xxxx-xx-xx xx:xx:xx, xxx> - INFO - Player (1) has connected from ('127.0.0.1', 62170)
+<REDACTED time of file xxxx-xx-xx xx:xx:xx, xxx> - INFO - Player (2) has connected from ('127.0.0.1', 62184)
+<REDACTED time of file xxxx-xx-xx xx:xx:xx, xxx> - INFO - Message from Player (2): f
+<REDACTED time of file xxxx-xx-xx xx:xx:xx, xxx> - ERROR - Error broadcasting to Player (1): [WinError 10054] An existing connection was forcibly closed by the remote host
+<REDACTED time of file xxxx-xx-xx xx:xx:xx, xxx> - ERROR - Error handling Player (1): [WinError 10054] An existing connection was forcibly closed by the remote host
+<REDACTED time of file xxxx-xx-xx xx:xx:xx, xxx> - INFO - Server started on 0.0.0.0:8089
+<REDACTED time of file xxxx-xx-xx xx:xx:xx, xxx> - INFO - Player (1) has connected from ('127.0.0.1', 62253)
+<REDACTED time of file xxxx-xx-xx xx:xx:xx, xxx> - INFO - Player (2) has connected from ('127.0.0.1', 62266)
+<REDACTED time of file xxxx-xx-xx xx:xx:xx, xxx> - ERROR - Error handling Player (1): [WinError 10054] An existing connection was forcibly closed by the remote host
+<REDACTED time of file xxxx-xx-xx xx:xx:xx, xxx> - INFO - Server started on 0.0.0.0:8089
+<REDACTED time of file xxxx-xx-xx xx:xx:xx, xxx> - INFO - Player (1) has connected from ('127.0.0.1', 62342)
+<REDACTED time of file xxxx-xx-xx xx:xx:xx, xxx> - INFO - Player (2) has connected from ('127.0.0.1', 62353)
+<REDACTED time of file xxxx-xx-xx xx:xx:xx, xxx> - ERROR - Error handling Player (1): [WinError 10054] An existing connection was forcibly closed by the remote host
+<REDACTED time of file xxxx-xx-xx xx:xx:xx, xxx> - ERROR - Error handling Player (2): [WinError 10053] An established connection was aborted by the software in your host machine
+<REDACTED time of file xxxx-xx-xx xx:xx:xx, xxx> - INFO - Server started on 0.0.0.0:8089
+<REDACTED time of file xxxx-xx-xx xx:xx:xx, xxx> - INFO - Player (1) has connected from ('127.0.0.1', 62385)
+<REDACTED time of file xxxx-xx-xx xx:xx:xx, xxx> - INFO - Player (2) has connected from ('127.0.0.1', 62395)
+<REDACTED time of file xxxx-xx-xx xx:xx:xx, xxx> - ERROR - Error handling Player (2): [WinError 10054] An existing connection was forcibly closed by the remote host
+<REDACTED time of file xxxx-xx-xx xx:xx:xx, xxx> - ERROR - Error handling Player (1): [WinError 10053] An established connection was aborted by the software in your host machine
+<REDACTED time of file xxxx-xx-xx xx:xx:xx, xxx> - INFO - Server started on 0.0.0.0:8089
+<REDACTED time of file xxxx-xx-xx xx:xx:xx, xxx> - INFO - Player (1) has connected from ('127.0.0.1', 62430)
+<REDACTED time of file xxxx-xx-xx xx:xx:xx, xxx> - INFO - Player (2) has connected from ('127.0.0.1', 62440)
+<REDACTED time of file xxxx-xx-xx xx:xx:xx, xxx> - ERROR - Error handling Player (1): [WinError 10054] An existing connection was forcibly closed by the remote host
+<REDACTED time of file xxxx-xx-xx xx:xx:xx, xxx> - ERROR - Error handling Player (2): [WinError 10053] An established connection was aborted by the software in your host machine
+<REDACTED time of file xxxx-xx-xx xx:xx:xx, xxx> - INFO - Server started on 0.0.0.0:8089
+<REDACTED time of file xxxx-xx-xx xx:xx:xx, xxx> - INFO - Player (1) has connected from ('127.0.0.1', 62629)
+<REDACTED time of file xxxx-xx-xx xx:xx:xx, xxx> - INFO - Player (2) has connected from ('127.0.0.1', 62635)
+<REDACTED time of file xxxx-xx-xx xx:xx:xx, xxx> - ERROR - Error handling Player (1): [WinError 10054] An existing connection was forcibly closed by the remote host
+<REDACTED time of file xxxx-xx-xx xx:xx:xx, xxx> - INFO - Message from Player (2): s
+<REDACTED time of file xxxx-xx-xx xx:xx:xx, xxx> - INFO - Server started on 0.0.0.0:8089
+<REDACTED time of file xxxx-xx-xx xx:xx:xx, xxx> - INFO - Player (1) has connected from ('127.0.0.1', 62695)
+<REDACTED time of file xxxx-xx-xx xx:xx:xx, xxx> - INFO - Player (2) has connected from ('127.0.0.1', 62705)
+<REDACTED time of file xxxx-xx-xx xx:xx:xx, xxx> - ERROR - Error handling Player (1): [WinError 10054] An existing connection was forcibly closed by the remote host
+<REDACTED time of file xxxx-xx-xx xx:xx:xx, xxx> - INFO - Server started on 0.0.0.0:8089
+<REDACTED time of file xxxx-xx-xx xx:xx:xx, xxx> - INFO - Player (1) has connected from ('127.0.0.1', 62762)
+<REDACTED time of file xxxx-xx-xx xx:xx:xx, xxx> - INFO - Player (2) has connected from ('127.0.0.1', 62775)
+<REDACTED time of file xxxx-xx-xx xx:xx:xx, xxx> - ERROR - Error handling Player (2): [WinError 10054] An existing connection was forcibly closed by the remote host
+<REDACTED time of file xxxx-xx-xx xx:xx:xx, xxx> - ERROR - Error handling Player (1): [WinError 10054] An existing connection was forcibly closed by the remote host
+<REDACTED time of file xxxx-xx-xx xx:xx:xx, xxx> - INFO - Server started on 0.0.0.0:8089
+<REDACTED time of file xxxx-xx-xx xx:xx:xx, xxx> - INFO - Player (1) has connected from ('127.0.0.1', 62832)
+<REDACTED time of file xxxx-xx-xx xx:xx:xx, xxx> - INFO - Player (2) has connected from ('127.0.0.1', 62841)
+<REDACTED time of file xxxx-xx-xx xx:xx:xx, xxx> - ERROR - Error handling Player (1): [WinError 10054] An existing connection was forcibly closed by the remote host
+<REDACTED time of file xxxx-xx-xx xx:xx:xx, xxx> - ERROR - Error handling Player (2): [WinError 10053] An established connection was aborted by the software in your host machine
+<REDACTED time of file xxxx-xx-xx xx:xx:xx, xxx> - INFO - Server started on 0.0.0.0:8089
+<REDACTED time of file xxxx-xx-xx xx:xx:xx, xxx> - INFO - Server started on 0.0.0.0:8089
+<REDACTED time of file xxxx-xx-xx xx:xx:xx, xxx> - INFO - Player (1) has connected from ('127.0.0.1', 62939)
+<REDACTED time of file xxxx-xx-xx xx:xx:xx, xxx> - INFO - Player (2) has connected from ('127.0.0.1', 62948)
+<REDACTED time of file xxxx-xx-xx xx:xx:xx, xxx> - ERROR - Error handling Player (1): [WinError 10054] An existing connection was forcibly closed by the remote host
+<REDACTED time of file xxxx-xx-xx xx:xx:xx, xxx> - ERROR - Error handling Player (2): [WinError 10053] An established connection was aborted by the software in your host machine
+<REDACTED time of file xxxx-xx-xx xx:xx:xx, xxx> - ERROR - Error broadcasting to Player (1): [WinError 10038] An operation was attempted on something that is not a socket
+<REDACTED time of file xxxx-xx-xx xx:xx:xx, xxx> - INFO - Server started on 0.0.0.0:8089
+<REDACTED time of file xxxx-xx-xx xx:xx:xx, xxx> - INFO - Player (1) has connected from ('127.0.0.1', 63046)
+<REDACTED time of file xxxx-xx-xx xx:xx:xx, xxx> - INFO - Player (2) has connected from ('127.0.0.1', 63055)
+<REDACTED time of file xxxx-xx-xx xx:xx:xx, xxx> - INFO - Message from Player (2): f
+<REDACTED time of file xxxx-xx-xx xx:xx:xx, xxx> - ERROR - Error broadcasting to Player (1): [WinError 10054] An existing connection was forcibly closed by the remote host
+<REDACTED time of file xxxx-xx-xx xx:xx:xx, xxx> - ERROR - Error handling Player (1): [WinError 10054] An existing connection was forcibly closed by the remote host
+<REDACTED time of file xxxx-xx-xx xx:xx:xx, xxx> - ERROR - Error handling Player (2): [WinError 10054] An existing connection was forcibly closed by the remote host
+<REDACTED time of file xxxx-xx-xx xx:xx:xx, xxx> - ERROR - Error handling Player (3): [WinError 10054] An existing connection was forcibly closed by the remote host
+<REDACTED time of file xxxx-xx-xx xx:xx:xx, xxx> - INFO - Server started on 0.0.0.0:8089
+<REDACTED time of file xxxx-xx-xx xx:xx:xx, xxx> - INFO - Server started on 0.0.0.0:8089
+<REDACTED time of file xxxx-xx-xx xx:xx:xx, xxx> - INFO - Player (1) has connected from ('127.0.0.1', 63104)
+<REDACTED time of file xxxx-xx-xx xx:xx:xx, xxx> - INFO - Player (2) has connected from ('127.0.0.1', 63113)
+<REDACTED time of file xxxx-xx-xx xx:xx:xx, xxx> - ERROR - Error handling Player (2): [WinError 10054] An existing connection was forcibly closed by the remote host
+<REDACTED time of file xxxx-xx-xx xx:xx:xx, xxx> - ERROR - Error handling Player (1): [WinError 10053] An established connection was aborted by the software in your host machine
+<REDACTED time of file xxxx-xx-xx xx:xx:xx, xxx> - INFO - Server started on 0.0.0.0:8089
+<REDACTED time of file xxxx-xx-xx xx:xx:xx, xxx> - ERROR - Error handling Player (3): [WinError 10054] An existing connection was forcibly closed by the remote host
+<REDACTED time of file xxxx-xx-xx xx:xx:xx, xxx> - INFO - Server started on 0.0.0.0:8089
+<REDACTED time of file xxxx-xx-xx xx:xx:xx, xxx> - INFO - Server started on 0.0.0.0:8089
+<REDACTED time of file xxxx-xx-xx xx:xx:xx, xxx> - INFO - Server started on 0.0.0.0:8089
+<REDACTED time of file xxxx-xx-xx xx:xx:xx, xxx> - INFO - Player (1) has connected from ('127.0.0.1', 63559)
+<REDACTED time of file xxxx-xx-xx xx:xx:xx, xxx> - INFO - Player (2) has connected from ('127.0.0.1', 63577)
+<REDACTED time of file xxxx-xx-xx xx:xx:xx, xxx> - ERROR - Error handling Player (1): [WinError 10053] An established connection was aborted by the software in your host machine
+<REDACTED time of file xxxx-xx-xx xx:xx:xx, xxx> - INFO - Server started on 0.0.0.0:8089
+<REDACTED time of file xxxx-xx-xx xx:xx:xx, xxx> - INFO - Player (1) has connected from ('127.0.0.1', 63617)
+<REDACTED time of file xxxx-xx-xx xx:xx:xx, xxx> - INFO - Player (2) has connected from ('127.0.0.1', 63627)
+<REDACTED time of file xxxx-xx-xx xx:xx:xx, xxx> - ERROR - Error handling Player (1): [WinError 10054] An existing connection was forcibly closed by the remote host
+<REDACTED time of file xxxx-xx-xx xx:xx:xx, xxx> - ERROR - Error handling Player (2): [WinError 10053] An established connection was aborted by the software in your host machine
+<REDACTED time of file xxxx-xx-xx xx:xx:xx, xxx> - INFO - Server started on 0.0.0.0:8089
+<REDACTED time of file xxxx-xx-xx xx:xx:xx, xxx> - INFO - Player (1) has connected from ('127.0.0.1', 63663)
+<REDACTED time of file xxxx-xx-xx xx:xx:xx, xxx> - INFO - Player (2) has connected from ('127.0.0.1', 63673)
+<REDACTED time of file xxxx-xx-xx xx:xx:xx, xxx> - ERROR - Error handling Player (2): [WinError 10054] An existing connection was forcibly closed by the remote host
+<REDACTED time of file xxxx-xx-xx xx:xx:xx, xxx> - ERROR - Error handling Player (1): [WinError 10053] An established connection was aborted by the software in your host machine
+<REDACTED time of file xxxx-xx-xx xx:xx:xx, xxx> - INFO - Server started on 0.0.0.0:8089
+<REDACTED time of file xxxx-xx-xx xx:xx:xx, xxx> - INFO - Player (1) has connected from ('127.0.0.1', 59712)
+<REDACTED time of file xxxx-xx-xx xx:xx:xx, xxx> - INFO - Player (2) has connected from ('127.0.0.1', 59719)
+<REDACTED time of file xxxx-xx-xx xx:xx:xx, xxx> - ERROR - Error handling Player (2): [WinError 10054] An existing connection was forcibly closed by the remote host
+<REDACTED time of file xxxx-xx-xx xx:xx:xx, xxx> - ERROR - Error handling Player (1): [WinError 10053] An established connection was aborted by the software in your host machine
+<REDACTED time of file xxxx-xx-xx xx:xx:xx, xxx> - ERROR - Error handling Player (3): [WinError 10054] An existing connection was forcibly closed by the remote host
+<REDACTED time of file xxxx-xx-xx xx:xx:xx, xxx> - INFO - Server started on 0.0.0.0:8089
+<REDACTED time of file xxxx-xx-xx xx:xx:xx, xxx> - INFO - Player (1) has connected from ('127.0.0.1', 59751)
+<REDACTED time of file xxxx-xx-xx xx:xx:xx, xxx> - INFO - Player (2) has connected from ('127.0.0.1', 59757)
+<REDACTED time of file xxxx-xx-xx xx:xx:xx, xxx> - ERROR - Error handling Player (1): [WinError 10054] An existing connection was forcibly closed by the remote host
+<REDACTED time of file xxxx-xx-xx xx:xx:xx, xxx> - ERROR - Error handling Player (2): [WinError 10053] An established connection was aborted by the software in your host machine
+<REDACTED time of file xxxx-xx-xx xx:xx:xx, xxx> - ERROR - Error handling Player (3): [WinError 10054] An existing connection was forcibly closed by the remote host
+<REDACTED time of file xxxx-xx-xx xx:xx:xx, xxx> - INFO - Server started on 0.0.0.0:8089
+<REDACTED time of file xxxx-xx-xx xx:xx:xx, xxx> - INFO - Player (1) has connected from ('127.0.0.1', 59780)
+<REDACTED time of file xxxx-xx-xx xx:xx:xx, xxx> - INFO - Player (2) has connected from ('127.0.0.1', 59786)
+<REDACTED time of file xxxx-xx-xx xx:xx:xx, xxx> - ERROR - Error handling Player (1): [WinError 10054] An existing connection was forcibly closed by the remote host
+<REDACTED time of file xxxx-xx-xx xx:xx:xx, xxx> - ERROR - Error handling Player (2): [WinError 10053] An established connection was aborted by the software in your host machine
+<REDACTED time of file xxxx-xx-xx xx:xx:xx, xxx> - ERROR - Error handling Player (3): [WinError 10054] An existing connection was forcibly closed by the remote host
+<REDACTED time of file xxxx-xx-xx xx:xx:xx, xxx> - INFO - Server started on 0.0.0.0:8089
+<REDACTED time of file xxxx-xx-xx xx:xx:xx, xxx> - INFO - Player (1) has connected from ('127.0.0.1', 59817)
+<REDACTED time of file xxxx-xx-xx xx:xx:xx, xxx> - INFO - Player (2) has connected from ('127.0.0.1', 59820)
+<REDACTED time of file xxxx-xx-xx xx:xx:xx, xxx> - ERROR - Error handling Player (1): [WinError 10054] An existing connection was forcibly closed by the remote host
+<REDACTED time of file xxxx-xx-xx xx:xx:xx, xxx> - ERROR - Error handling Player (2): [WinError 10053] An established connection was aborted by the software in your host machine
+<REDACTED time of file xxxx-xx-xx xx:xx:xx, xxx> - ERROR - Error handling Player (3): [WinError 10054] An existing connection was forcibly closed by the remote host
+<REDACTED time of file xxxx-xx-xx xx:xx:xx, xxx> - INFO - Server started on 0.0.0.0:8089
+<REDACTED time of file xxxx-xx-xx xx:xx:xx, xxx> - INFO - Server started on 0.0.0.0:8089
